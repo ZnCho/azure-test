@@ -1,8 +1,4 @@
 spring:
-  application:
-    name: azureTest
-  profiles:
-    active: azure
   datasource:
     hikari:
       poolName: HikariCP
